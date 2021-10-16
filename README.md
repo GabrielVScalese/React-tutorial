@@ -2,7 +2,7 @@
 
 Uma simples aplicação de gerenciamento de todos, para aprender conceitos do React
 
-## Setup do Projeto
+## Setup
 
 1 - Crie uma pasta e clone o projeto a partir do comando `git clone https://github.com/GabrielVScalese/React-tutorial.git`.
 
